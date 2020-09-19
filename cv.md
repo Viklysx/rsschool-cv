@@ -1,4 +1,4 @@
-#CV
+# CV
 
 1. Viktoria Lysenko
 2. Contacts:
@@ -20,3 +20,4 @@ I have experience in developing training materials using HTML, JS, and CSS.
     * Higher education (Adygeya state University, faculty of mathematics and computer science, direction "Applied mathematics and computer science").
     * Full-time additional training courses in web development
     * skillfactory.ru, frontend development course
+8. Level of English proficiency: A1
