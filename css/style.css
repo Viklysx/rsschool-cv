@@ -1,0 +1,77 @@
+*, *:after, *:before {
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+}
+
+@font-face {
+    src: url('../fonts/NunitoSans-Regular.ttf');
+    font-family: 'Nunito Sans';
+    font-style: normal;
+    font-weight: normal;
+}
+
+body {
+    font-family: 'Nunito Sans', Helvetica, Arial, sans-serif;
+}
+
+.wrapper {
+    max-width: 1024px;
+    margin: 0 auto;
+}
+
+.head {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.head__photo {
+    border-radius: 50%;
+    margin: 20px 0px;
+}
+
+.content {
+    display: flex;
+    margin: 20px 0px;
+}
+
+h3 {
+    text-align: center;
+}
+
+.content__block {
+    margin-right: 100px;
+}
+
+hr {
+    margin: 20px 0px;
+}
+
+a {
+    text-decoration: none;
+    color: #E91E63;
+}
+
+li {
+    color: #E91E63;
+}
+
+li span {
+    color: black;
+}
+
+.footer-content {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 100px;
+}
+
+.footer-content__elem {
+    display: flex;
+    align-items: center;
+}
+
+.footer-content__elem img {
+    margin-right: 20px;
+}
